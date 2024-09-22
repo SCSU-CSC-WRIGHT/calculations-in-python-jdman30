@@ -1,26 +1,5 @@
-# Calculations assingment 1 in assignment 2
+# Calculations lab 1 in assignment 2
 
-<<<<<<< HEAD
-# 1. Prompt the user to input the principal amount (P), rate of interest (R), and the time period in years (T).
-# 2. Use the formula for simple interest: [ \text{Simple Interest} = \frac{P \times R \times T}{100} ]
-# 3. Store the calculated simple interest in a variable.
-# 4. Display the calculated interest using print().
-
-
-enterprinciple = input ("Enter the principle amount: ")
-principleamount = int (enterprinciple)
-
-interest_rate = input ("Enter the interest rate: ")
-rateamount = int (interest_rate)
-
-yearinput = input ("Enter the number of years: ")
-yearamount = int (yearamount)
-
-#calculate the interest
-
-simpleinterest = (principleamount * rateamount * yearamount)
-print ("The simple interest is ", simpleinterest)
-=======
 # 1. Prompt the user to input the principal amount (P), rate of interest (R), and the time period in years (T).
 # 2. Use the formula for simple interest: [ \text{Simple Interest} = \frac{P \times R \times T}{100} ]
 # 3. Store the calculated simple interest in a variable.
@@ -40,4 +19,3 @@ yearamount = int (yearinput)
 
 simpleinterest = (principleamount * (rateamount/100)  * yearamount)
 print ("The simple interest is ", simpleinterest)
->>>>>>> 622b6b6a754f4a1696a42e1285ee8f81c027bd73

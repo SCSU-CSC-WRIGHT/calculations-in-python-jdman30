@@ -1,4 +1,4 @@
-#lab 2
+#Calculations assignment 2 lab 2
 
 kg = int(input("Enter your weight: "))
 
